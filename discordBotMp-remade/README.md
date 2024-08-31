@@ -12,7 +12,7 @@ Bienvenue dans le **Ticket Bot MP** ! Ce bot Discord vous permet de gérer facil
 
 1. **Clonez le dépôt :**
    ```bash
-   git clone https://github.com/hugo76_macha/ticket-bot-mp.git
+   git clone https://github.com/Hugo76macha/Ticket-bot-Mp.git
 
 
 cd ticket-bot-mp
