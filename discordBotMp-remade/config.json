@@ -1,0 +1,6 @@
+{
+    "token": "Le token de ton bot",
+    "GuildsId": "L'id de ton serveur discord",
+    "CategorieId": "L'id de la categorie ou seront ouvert les tickets",
+    "message": "Merci pour votre message, nous allons vous repondre au plus vite ! // Modifiable selon bon vous sembres !"
+}
